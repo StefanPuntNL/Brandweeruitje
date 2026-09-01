@@ -1,5 +1,5 @@
-// Countdown naar zaterdag 12 september 2026, 12:00 (verzameltijd bij de kazerne)
-const EVENT_DATE = new Date("2026-09-12T12:00:00+02:00");
+// Countdown naar zaterdag 12 september 2026, 11:30 (verzameltijd bij de kazerne)
+const EVENT_DATE = new Date("2026-09-12T11:30:00+02:00");
 
 const els = {
   days: document.getElementById("cd-days"),
